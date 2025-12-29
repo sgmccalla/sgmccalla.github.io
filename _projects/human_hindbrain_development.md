@@ -3,6 +3,7 @@ title: "Human Hindbrain Development"
 collection: projects
 permalink: /projects/human-hindbrain-development/
 date: 2025-01-01
+last_modified_at: false
 order: 6
 excerpt: "Single-cell time course of hindbrain differentiation to map lineages and identify stage-specific gene regulatory networks."
 ---
