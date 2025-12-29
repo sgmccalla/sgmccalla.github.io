@@ -47,6 +47,8 @@ social:
   google_scholar: "giCNkaMAAAAJ"
 
 minimal_mistakes_skin: "default"
+custom_css:
+  - assets/css/custom.css
 locale: "en-US"
 search: true
 breadcrumbs: true
