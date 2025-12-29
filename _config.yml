@@ -98,8 +98,5 @@ scholar:
   order: descending
   source: ./_bibliography
   bibliography: papers.bib
-  bibliography_template: bibliography
-  #details_link: "Details"
-  query: "@*"
 
 permalink: /:categories/:title/
