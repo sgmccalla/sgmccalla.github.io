@@ -1,5 +1,5 @@
 ---
-title: "Maize Autophagy Modules"
+title: "Non-canonical Autophagy in Maize"
 collection: projects
 permalink: /projects/maize_autophagy/
 date: 2024-10-01
