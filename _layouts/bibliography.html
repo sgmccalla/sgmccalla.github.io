@@ -1,1 +1,12 @@
-{{ reference }}
+{% assign r = reference %}
+
+{%- comment -%}
+Bold the exact formatted author string that appears in your APA output.
+This is intentionally conservative: it only bolds known renderings.
+{%- endcomment -%}
+
+{% assign r = r | replace: "McCalla, S. G.", "<strong>McCalla, S. G.</strong>" %}
+{% assign r = r | replace: "McCalla, S. Grace", "<strong>McCalla, S. Grace</strong>" %}
+{% assign r = r | replace: "McCalla, S.", "<strong>McCalla, S.</strong>" %}
+
+{{ r }}
