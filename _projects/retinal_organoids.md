@@ -3,6 +3,7 @@ title: "Retinal Organoids (NRL→THRB2)"
 collection: projects
 permalink: /projects/retinal_organoids/
 date: 2024-06-01
+last_modified_at: false
 order: 5
 excerpt: "Dissecting rod-to-cone fate reprogramming in human retinal organoids using single-cell transcriptomics and gene regulatory network analysis."
 ---
