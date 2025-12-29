@@ -1,5 +1,5 @@
 ---
-title: "Retinal Organoids (NRL→THRB2)"
+title: "Conversion of Rods to Red-green Cones"
 collection: projects
 permalink: /projects/retinal_organoids/
 date: 2024-06-01
