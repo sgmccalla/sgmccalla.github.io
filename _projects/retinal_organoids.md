@@ -18,7 +18,7 @@ excerpt: "Dissecting rod-to-cone fate reprogramming in human retinal organoids u
   <div style="flex:1;">
   <div class="project-hero-text">
     <p>
-<strong>Retinal Organoids (NRL→THRB2)</strong> integrates CRISPR-based fate perturbation with single-cell RNA-seq and network inference to characterize rod-to-cone reprogramming in human retinal organoids. Replacing NRL with THRB2 promotes red–green cone identity and reveals distinct transcriptional states whose gene regulatory networks illuminate key regulators of cone specification and maturation.
+This project integrates CRISPR-based fate perturbation with single-cell RNA-seq and network inference to characterize rod-to-cone reprogramming in human retinal organoids. Replacing NRL with THRB2 promotes red–green cone identity and reveals distinct transcriptional states whose gene regulatory networks illuminate key regulators of cone specification and maturation.
     </p>
 
   </div>
