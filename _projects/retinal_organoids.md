@@ -9,7 +9,7 @@ excerpt: "Dissecting rod-to-cone fate reprogramming in human retinal organoids u
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin-top:1rem;">
 
   <div style="flex:0 0 45%;">
-    <img src="/assets/images/retinal_organoids.png"
+    <img src="/assets/imag/projects/retinal_organoids.png"
          alt="Retinal organoid fate reprogramming overview"
          style="width:100%; height:auto; border-radius:4px;" />
   </div>
