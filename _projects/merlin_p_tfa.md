@@ -1,3 +1,10 @@
+---
+title: "MERLIN+P+TFA"
+collection: projects
+permalink: /projects/merlin-p-tfa/
+date: 2025-01-01
+---
+
 <div class="project-hero">
 
   <figure class="project-hero-figure">
