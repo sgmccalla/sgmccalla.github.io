@@ -10,7 +10,7 @@ author_profile: false
   <div class="cv-hero">
 
     <p class="cv-subtitle">
-      Bioinformatics scientist with expertise in translating high-dimensional biological data into mechanistic insight and actionable discovery. .
+      Bioinformatics scientist with expertise in translating high-dimensional biological data into mechanistic insight and actionable discovery.
     </p>
 
     <div class="cv-cta">
