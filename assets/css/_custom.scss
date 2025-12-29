@@ -105,3 +105,15 @@
 .page__content .bibliography strong {
   font-weight: 700;
 }
+
+.pub-note {
+  display: inline-block;
+  margin-left: 0.35rem;
+  font-size: 0.95em;
+  opacity: 0.85;
+}
+
+.pub-note sup {
+  font-size: 0.85em;
+  vertical-align: super;
+}
