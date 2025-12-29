@@ -1,3 +1,10 @@
+---
+title: "About"
+permalink: /about/
+layout: single
+author_profile: false
+---
+
 <div class="about-row">
   <img class="about-avatar-img" src="/assets/img/avatar.jpg" alt="Sunnie Grace McCalla">
 
