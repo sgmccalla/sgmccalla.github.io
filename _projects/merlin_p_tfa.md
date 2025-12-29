@@ -3,6 +3,7 @@ title: "MERLIN+P+TFA"
 collection: projects
 permalink: /projects/merlin-p-tfa/
 date: 2025-01-01
+last_modified_at: false
 order: 2
 excerpt: "Improving gene regulatory network inference by integrating priors with transcription factor activity in bulk and single-cell data."
 ---
