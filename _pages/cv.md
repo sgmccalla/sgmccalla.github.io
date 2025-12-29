@@ -8,7 +8,6 @@ author_profile: false
 <div class="cv-hub">
 
   <div class="cv-hero">
-    <h1 class="cv-title">Curriculum Vitae</h1>
 
     <p class="cv-subtitle">
       Bioinformatics scientist specializing in single-cell RNA sequencing, gene regulatory
