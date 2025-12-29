@@ -8,6 +8,7 @@ url: "https://sgmccalla.github.io"
 baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+last_modified_at: false
 
 markdown: kramdown
 kramdown:
