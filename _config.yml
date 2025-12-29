@@ -3,7 +3,7 @@
 
 title: "Sunnie Grace McCalla" 
 name: "Sunnie Grace McCalla"
-description: "Bioinformatics • Gene Regulatory Networks • Single-cell RNAseq • Multi-Omics"
+description: "Bioinformatics Scientist • Single-Cell RNA-seq • Multi-Omics • Network Biology • Translational Research • Reproducible Pipelines"
 url: "https://sgmccalla.github.io"
 baseurl: ""
 
@@ -29,8 +29,9 @@ paginate_path: "/blog/page:num/"
 
 author:
   name: "Sunnie Grace McCalla"
+  follow_label: "Contact"
   avatar: "/assets/img/avatar.jpg"
-  bio: "Bioinformatics researcher. scRNA-seq, GRNs, reproducible pipelines."
+  bio: "Bioinformatics Scientist • Single-Cell RNA-seq • Multi-Omics • Network Biology • Translational Research • Reproducible Pipelines"
   location: "USA"
   employer: "University of Wisconsin-Madison"
   email: "smccalla@wisc.edu"
