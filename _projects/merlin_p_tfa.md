@@ -1,7 +1,7 @@
 ---
 title: "MERLIN+P+TFA"
 collection: projects
-permalink: /projects/merlin-plus/
+permalink: /projects/merlin-p-tfa/
 date: 2025-01-01
 ---
 
