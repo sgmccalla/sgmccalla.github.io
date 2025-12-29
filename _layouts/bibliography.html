@@ -1,8 +1,7 @@
 {% assign r = reference %}
 
 {%- comment -%}
-Bold the exact formatted author string that appears in your APA output.
-This is intentionally conservative: it only bolds known renderings.
+Bold exact formatted author string in APA output.
 {%- endcomment -%}
 
 {% assign r = r | replace: "McCalla, S. G.", "<strong>McCalla, S. G.</strong>" %}
@@ -10,3 +9,12 @@ This is intentionally conservative: it only bolds known renderings.
 {% assign r = r | replace: "McCalla, S.", "<strong>McCalla, S.</strong>" %}
 
 {{ r }}
+
+{%- comment -%}
+Optional per-entry note, used for co-first author, equal contribution, etc.
+Requires to set `note={...}` in the BibTeX entry.
+{%- endcomment -%}
+
+{% if entry.note %}
+  <span class="pub-note"> {{ entry.note }} </span>
+{% endif %}
