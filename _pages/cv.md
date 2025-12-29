@@ -26,7 +26,7 @@ author_profile: false
       <li>Single-cell RNA-seq, GRN inference, and multi-omics integration</li>
       <li>6+ peer-reviewed publications in computational biology and genomics</li>
       <li>Industry experience in drug discovery and translational bioinformatics</li>
-      <li>Expertise in reproducible pipelines (Python, R, Snakemake, Nextflow, Docker)</li>
+      <li>Expertise in reproducible pipelines (Python, R, Snakemake, Docker)</li>
       <li>Proven collaborator across computational and experimental teams</li>
     </ul>
   </div>
