@@ -3,6 +3,7 @@ title: "scRNA-seq Network Inference Benchmarking"
 collection: projects
 permalink: /projects/scrnaseq-net-inference/
 date: 2023-01-10
+last_modified_at: false
 order: 1
 excerpt: "Benchmarking gene regulatory network inference methods on bulk and single-cell RNA-seq data."
 ---
