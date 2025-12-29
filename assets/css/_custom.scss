@@ -162,3 +162,31 @@
     max-width: 100%;
   }
 }
+
+/* Projects page: force 3 column grid */
+.projects-grid-3 {
+  .grid__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+
+  .grid__item {
+    width: calc((100% - 4rem) / 3); /* 3 columns, 2 gaps */
+    margin: 0;
+  }
+
+  /* Tablet: 2 columns */
+  @media (max-width: 1024px) {
+    .grid__item {
+      width: calc((100% - 2rem) / 2);
+    }
+  }
+
+  /* Mobile: 1 column */
+  @media (max-width: 640px) {
+    .grid__item {
+      width: 100%;
+    }
+  }
+}
