@@ -3,6 +3,7 @@ title: "Cell–Cell Network Inference"
 collection: projects
 permalink: /projects/cell-cell-network-inference/
 date: 2025-01-01
+last_modified_at: false
 order: 3
 excerpt: "Learning cell–cell graphs using probabilistic graphical models to improve lineage reconstruction and trajectory inference in single-cell RNA-seq data."
 ---
