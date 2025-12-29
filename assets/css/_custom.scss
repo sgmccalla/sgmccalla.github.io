@@ -117,3 +117,48 @@
   font-size: 0.85em;
   vertical-align: super;
 }
+
+/* Project hero: image left, text right */
+.project-hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.project-hero-figure {
+  flex: 0 0 52%;
+  max-width: 52%;
+  margin: 0;
+}
+
+.project-hero-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.10);
+}
+
+.project-hero-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.project-hero-text p {
+  margin-top: 0;
+  line-height: 1.6;
+  max-width: 40rem;
+}
+
+/* Stack on small screens */
+@media (max-width: 900px) {
+  .project-hero {
+    flex-direction: column;
+  }
+
+  .project-hero-figure,
+  .project-hero-text {
+    max-width: 100%;
+  }
+}
