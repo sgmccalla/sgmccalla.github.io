@@ -30,5 +30,5 @@ author_profile: false
 <ul class="about-links">
   <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=giCNkaMAAAAJ&hl=en&sortby=pubdate">scholar.google.com</a></li>
   <li><strong>GitHub:</strong> <a href="https://github.com/sgmccalla">github.com/sgmccalla</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sunnie-grace-mccalla-018804128/">linkedin.com/in/sunnie-grace-mccalla-018804128</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sunnie-grace-mccalla/">linkedin.com/in/sunnie-grace-mccalla</a></li>
 </ul>
