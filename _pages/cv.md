@@ -35,7 +35,7 @@ author_profile: false
     <h2>Profiles & publications</h2>
     <ul>
       <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=giCNkaMAAAAJ&hl=en&sortby=pubdate">scholar.google.com</a></li>
-      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sunnie-grace-mccalla-018804128/">linkedin.com</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sunnie-grace-mccalla/">linkedin.com</a></li>
     </ul>
   </div>
 
